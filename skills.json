@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/DYLANFREE/jun-skills",
+  "skills": [
+    {
+      "name": "clearme",
+      "title": "把真正的问题讲明白",
+      "description": "先对齐真实意图、核心问题和预期变化，再继续工作。默认只讨论，不执行。",
+      "path": "skills/clearme",
+      "entrypoint": "skills/clearme/SKILL.md",
+      "version": "0.1.0.0",
+      "license": "MIT",
+      "language": "zh-CN",
+      "dependencies": [],
+      "tags": ["理解对齐", "问题澄清", "自然表达"]
+    }
+  ]
+}

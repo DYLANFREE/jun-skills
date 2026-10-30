@@ -1,0 +1,17 @@
+# Public release allowlist. Add each later Skill only after reviewing its scope.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/CHANGELOG.md
+!/VERSION
+!/skills.json
+!/skills/
+/skills/*
+!/skills/clearme/
+/skills/clearme/*
+!/skills/clearme/SKILL.md
+!/skills/clearme/LICENSE
+!/skills/clearme/agents/
+/skills/clearme/agents/*
+!/skills/clearme/agents/openai.yaml

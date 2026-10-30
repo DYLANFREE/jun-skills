@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clear Me"
+  short_description: "对齐真实意图、工程目标和核心问题，再用简单人话说明"
+  default_prompt: "使用 $clearme 先用简单人话对齐我的真实意图、工程目标、核心问题和预期变化，暂不执行。"
